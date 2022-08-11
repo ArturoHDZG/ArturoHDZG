@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Videogame industry
 - 📫 Follow me on Facebook
 
-Se all my projects here:
+See all my projects here:
 
 1. [FreelanceWeb](https://arturohdzg.github.io/FreelanceWeb/)
 
