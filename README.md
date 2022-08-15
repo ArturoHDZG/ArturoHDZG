@@ -1,4 +1,4 @@
-<img align="left" width="200" height="200" src="https://user-images.githubusercontent.com/110303654/184613495-2b55ad96-6094-40af-a946-40dd32e131d7.jpg" alt="Just Me">
+<img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/110303654/184613495-2b55ad96-6094-40af-a946-40dd32e131d7.jpg" alt="Just Me">
 
 
 - 👋 Hi, I’m Arturo Hernández Garza
@@ -7,6 +7,10 @@
 - 💞️ I’m looking to collaborate on Videogame industry
 - 📫 Follow me on [Facebook](https://www.facebook.com/arturo.hernandezgarza/)
 <br/>
+<br/>
+<br/>
+<br/>
+
 <hr/>
 
 <p align="center">
