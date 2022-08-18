@@ -6,7 +6,7 @@
 - 👀 I’m interested in Videogames, History, IT, Gadgets and Tech stuff.
 - 🌱 I’m currently learning English, DevOps IT, Cloud Computing, Web Developer.
 - 💞️ I’m looking to collaborate someday on Videogame Industry.
-- 📫 Follow me on [Facebook](https://www.facebook.com/arturo.hernandezgarza/), [Twitter](https://twitter.com/arturo_hdzg) or [Linkedin](www.linkedin.com/in/arturohdzg).
+- 📫 Follow me on [Facebook](https://www.facebook.com/arturo.hernandezgarza/), [Twitter](https://twitter.com/arturo_hdzg) or [Linkedin](https://www.linkedin.com/in/arturohdzg).
 
 <hr/>
 
