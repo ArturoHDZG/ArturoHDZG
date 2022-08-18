@@ -13,6 +13,7 @@ See all my projects here:
 </p>
 
 1. [FreelanceWeb](https://arturohdzg.github.io/FreelanceWeb/)
+2. [FrontEnd Store](https://arturohdzg.github.io/FrontEndStore/)
 
 <!---
 ArturoHDZG/ArturoHDZG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
