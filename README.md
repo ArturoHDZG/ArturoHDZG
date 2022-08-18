@@ -17,6 +17,7 @@ See all my projects here:
 1. [FreelanceWeb](https://arturohdzg.github.io/FreelanceWeb/)<br>
 [![](https://user-images.githubusercontent.com/110303654/185366843-0b417bbf-0a5c-4441-8f05-0969a50535dd.jpg)](https://arturohdzg.github.io/FreelanceWeb/)
 2. [FrontEnd Store](https://arturohdzg.github.io/FrontEndStore/)
+In progress...
 
 <!---
 ArturoHDZG/ArturoHDZG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
