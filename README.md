@@ -1,4 +1,6 @@
-<img align="center" width="200" height="200" src="https://user-images.githubusercontent.com/110303654/184613495-2b55ad96-6094-40af-a946-40dd32e131d7.jpg" alt="Just Me">
+<p align="center">
+<img width="200" height="200" src="https://user-images.githubusercontent.com/110303654/184613495-2b55ad96-6094-40af-a946-40dd32e131d7.jpg" alt="Just Me">
+</p>
 
 - 👋 Hi, I’m Arturo Hernández Garza
 - 👀 I’m interested in all tech stuff, everything!
@@ -12,7 +14,8 @@
 See all my projects here:
 </p>
 
-1. [FreelanceWeb](https://arturohdzg.github.io/FreelanceWeb/)
+1. [FreelanceWeb](https://arturohdzg.github.io/FreelanceWeb/)<br>
+[![](https://user-images.githubusercontent.com/110303654/185366843-0b417bbf-0a5c-4441-8f05-0969a50535dd.jpg)](https://arturohdzg.github.io/FreelanceWeb/)
 2. [FrontEnd Store](https://arturohdzg.github.io/FrontEndStore/)
 
 <!---
