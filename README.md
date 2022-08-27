@@ -19,7 +19,7 @@ See all my projects here:
 2. [FrontEnd Store](https://arturohdzg.github.io/FrontEndStore/)<br>
 [![FrontEnd Store](https://user-images.githubusercontent.com/110303654/185726776-f18019c3-d160-4411-8018-e89d683bbdb7.jpg)](https://arturohdzg.github.io/FrontEndStore/)
 3. [Blog de Café](https://arturohdzg.github.io/BlogCafe/)<br>
-[![In Progress...](#)](#)
+[![In Progress...](https://user-images.githubusercontent.com/110303654/187044960-b1237542-41a3-4b5d-aa19-1152de812e3f.png)](#)
 
 
 <!---
