@@ -15,10 +15,11 @@ See all my projects here:
 </p>
 
 1. [FreelanceWeb](https://arturohdzg.github.io/FreelanceWeb/)<br>
-[![](https://user-images.githubusercontent.com/110303654/185366843-0b417bbf-0a5c-4441-8f05-0969a50535dd.jpg)](https://arturohdzg.github.io/FreelanceWeb/)
+[![FreelanceWeb](https://user-images.githubusercontent.com/110303654/185366843-0b417bbf-0a5c-4441-8f05-0969a50535dd.jpg)](https://arturohdzg.github.io/FreelanceWeb/)
 2. [FrontEnd Store](https://arturohdzg.github.io/FrontEndStore/)<br>
-[![](https://user-images.githubusercontent.com/110303654/185726776-f18019c3-d160-4411-8018-e89d683bbdb7.jpg)](https://arturohdzg.github.io/FrontEndStore/)
-3. In progress...
+[![FrontEnd Store](https://user-images.githubusercontent.com/110303654/185726776-f18019c3-d160-4411-8018-e89d683bbdb7.jpg)](https://arturohdzg.github.io/FrontEndStore/)
+3. [Blog de Café](https://arturohdzg.github.io/BlogCafe/)<br>
+[![In Progress...](#)](#)
 
 
 <!---
