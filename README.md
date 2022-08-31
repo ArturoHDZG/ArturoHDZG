@@ -14,12 +14,13 @@
 See all my projects here:
 </p>
 
-1. [FreelanceWeb](https://arturohdzg.github.io/FreelanceWeb/)<br>
+1. [Freelance Web](https://arturohdzg.github.io/FreelanceWeb/)<br>
 [![FreelanceWeb](https://user-images.githubusercontent.com/110303654/185366843-0b417bbf-0a5c-4441-8f05-0969a50535dd.jpg)](https://arturohdzg.github.io/FreelanceWeb/)
 2. [FrontEnd Store](https://arturohdzg.github.io/FrontEndStore/)<br>
 [![FrontEnd Store](https://user-images.githubusercontent.com/110303654/185726776-f18019c3-d160-4411-8018-e89d683bbdb7.jpg)](https://arturohdzg.github.io/FrontEndStore/)
-3. [Blog de Café](https://arturohdzg.github.io/BlogCafe/)<br>
-[![In Progress...](https://user-images.githubusercontent.com/110303654/187044960-b1237542-41a3-4b5d-aa19-1152de812e3f.png)](#)
+3. [Blog DeCafé](https://arturohdzg.github.io/BlogCafe/)<br>
+[![In Progress...](https://user-images.githubusercontent.com/110303654/187791251-0857055d-5465-48c4-9751-62db441409d8.jpg)](https://arturohdzg.github.io/BlogCafe/)
+
 
 
 <!---
