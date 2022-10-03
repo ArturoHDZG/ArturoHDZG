@@ -14,16 +14,14 @@
 See all my projects here:
 </p>
 
-
-1. [Blog DeCafé](https://arturohdzg.github.io/BlogCafe/)<br>
-[![In Progress...](https://user-images.githubusercontent.com/110303654/187791251-0857055d-5465-48c4-9751-62db441409d8.jpg)](https://arturohdzg.github.io/BlogCafe/)
-2. [FrontEnd Store](https://arturohdzg.github.io/FrontEndStore/)<br>
+1. [Furniture Store](https://arturohdzg.github.io/FurnitureStore/)<br>**Build in Bootstrap v5**<br>
+[![Furniture Store](https://user-images.githubusercontent.com/110303654/193496707-49d808aa-a171-46df-9d7f-d8cfbf78ff54.jpg)](https://arturohdzg.github.io/FurnitureStore/)
+2. [Blog DeCafé](https://arturohdzg.github.io/BlogCafe/)<br>
+[![Blog DeCafé](https://user-images.githubusercontent.com/110303654/187791251-0857055d-5465-48c4-9751-62db441409d8.jpg)](https://arturohdzg.github.io/BlogCafe/)
+3. [FrontEnd Store](https://arturohdzg.github.io/FrontEndStore/)<br>
 [![FrontEnd Store](https://user-images.githubusercontent.com/110303654/185726776-f18019c3-d160-4411-8018-e89d683bbdb7.jpg)](https://arturohdzg.github.io/FrontEndStore/)
-3. [Freelance Web](https://arturohdzg.github.io/FreelanceWeb/)<br>
-[![FreelanceWeb](https://user-images.githubusercontent.com/110303654/185366843-0b417bbf-0a5c-4441-8f05-0969a50535dd.jpg)](https://arturohdzg.github.io/FreelanceWeb/)
-4. [Under Construction...](https://)<br>**Build in Bootstrap v5**<br>
-[![Under Construction](https://user-images.githubusercontent.com/110303654/192773344-c04babbc-71e6-4c8f-8a01-329a95024a44.png)](https://)
-
+4. [Freelance Web](https://arturohdzg.github.io/FreelanceWeb/)<br>
+[![Freelance Web](https://user-images.githubusercontent.com/110303654/185366843-0b417bbf-0a5c-4441-8f05-0969a50535dd.jpg)](https://arturohdzg.github.io/FreelanceWeb/)
 
 <!---
 ArturoHDZG/ArturoHDZG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
