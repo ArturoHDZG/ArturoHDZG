@@ -17,7 +17,7 @@ See all my projects here:
 1. [Under Construction](https://)<br>
 [![Under Contruction](https://user-images.githubusercontent.com/110303654/198379154-e89be033-364a-4d31-a582-0af4a3bf55c3.png)](https://)
 2. [UpTask](https://uptask.ticocasas.domcloud.io)<br>**Build in SASS, JS, Gulp, PHP 8 and MySQL 8 Using Virtual DOM, MVC**<br>
-[![UpTask](https://github.com/ArturoHDZG/UpTask/blob/main/src/img/Project-Github-Small.jpg)](https://uptask.ticocasas.domcloud.io)
+[![UpTask](https://github.com/ArturoHDZG/ArturoHDZG/assets/110303654/a97a12d8-a196-437b-9bf7-559aeb9afe0e)](https://uptask.ticocasas.domcloud.io)
 3. [AppSalon](https://appsalon.ticocasas.domcloud.io)<br>**Build in SASS, JS, Gulp, PHP 8 and MySQL 8**<br>
 [![AppSalon](https://github.com/ArturoHDZG/ArturoHDZG/assets/110303654/3fb88925-7720-46e0-840b-34cd3f93e5f2)](https://appsalon.ticocasas.domcloud.io)
 4. [Bienes Raíces](https://ticocasas.domcloud.io)<br>**Build in SASS, JS, Gulp, PHP 8 and MySQL 8**<br>
