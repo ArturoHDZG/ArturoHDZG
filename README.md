@@ -35,6 +35,12 @@ See all my projects here:
 10. [Freelance Web](https://arturohdzg.github.io/FreelanceWeb/)<br>
 [![Freelance Web](https://user-images.githubusercontent.com/110303654/185366843-0b417bbf-0a5c-4441-8f05-0969a50535dd.jpg)](https://arturohdzg.github.io/FreelanceWeb/)
 
+More Projects:
+- Vanilla JS Shopping Cart:
+  https://arturohdzg.github.io/JS-Shopping-Cart/
+
+- FrontEnd Mentor Challenges:
+  https://github.com/ArturoHDZG/FrontEnd-Mentor
 <!---
 ArturoHDZG/ArturoHDZG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
