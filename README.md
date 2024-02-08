@@ -36,10 +36,13 @@ See all my projects here:
 [![Freelance Web](https://user-images.githubusercontent.com/110303654/185366843-0b417bbf-0a5c-4441-8f05-0969a50535dd.jpg)](https://arturohdzg.github.io/FreelanceWeb/)
 
 More Projects:
-- Vanilla JS Shopping Cart:
+- Vanilla JS Email Form Simulator: 
+  https://arturohdzg.github.io/JS-Email-Form-Simulator/
+
+- Vanilla JS Shopping Cart: 
   https://arturohdzg.github.io/JS-Shopping-Cart/
 
-- FrontEnd Mentor Challenges:
+- FrontEnd Mentor Challenges: 
   https://github.com/ArturoHDZG/FrontEnd-Mentor
 <!---
 ArturoHDZG/ArturoHDZG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
