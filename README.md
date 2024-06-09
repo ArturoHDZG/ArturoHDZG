@@ -36,6 +36,12 @@ See all my projects here:
 [![Freelance Web](https://user-images.githubusercontent.com/110303654/185366843-0b417bbf-0a5c-4441-8f05-0969a50535dd.jpg)](https://arturohdzg.github.io/FreelanceWeb/)
 
 More Projects:
+- Veterinary Appointment Management System
+  https://arturohdzg.github.io/JS-Veterinary-Appointment-System/
+  
+- Weekly Gas Expense Calculator:
+  https://arturohdzg.github.io/JS-Weekly-Gas-Expense-Calculator/
+  
 - Vehicle Insurance Quotes Simulator: 
   https://arturohdzg.github.io/JS-Vehicle-Insurance-Simulator/
     
