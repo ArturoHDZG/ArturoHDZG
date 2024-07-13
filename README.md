@@ -36,6 +36,7 @@ See all my projects here:
 [![Freelance Web](https://user-images.githubusercontent.com/110303654/185366843-0b417bbf-0a5c-4441-8f05-0969a50535dd.jpg)](https://arturohdzg.github.io/FreelanceWeb/)  
 
 Vanilla JavaScript Projects:
+- [CRM Tool](https://arturohdzg.github.io/JS-CRM-Tool/)
 - [New Veterinary Clinic Appointment System](https://arturohdzg.github.io/JS-New-Veterinary-Clinic-Appointment-System/)
 - [Veterinary Appointment Management System](https://arturohdzg.github.io/JS-Veterinary-Appointment-System/)  
 - [Weekly Gas Expense Calculator](https://arturohdzg.github.io/JS-Weekly-Gas-Expense-Calculator/)  
