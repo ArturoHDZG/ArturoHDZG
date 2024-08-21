@@ -36,6 +36,7 @@ See all my projects here:
 [![Freelance Web](https://user-images.githubusercontent.com/110303654/185366843-0b417bbf-0a5c-4441-8f05-0969a50535dd.jpg)](https://arturohdzg.github.io/FreelanceWeb/)  
 
 Vanilla JavaScript Projects:
+- [API Crypto Prices App](https://arturohdzg.github.io/JS-API-Crypto-Prices-App/)
 - [API Image Search App](https://arturohdzg.github.io/JS-API-Image-Search-App/)
 - [API Recipes App](https://arturohdzg.github.io/JS-API-Recipes-App/)
 - [CRM Tool](https://arturohdzg.github.io/JS-CRM-Tool/)
