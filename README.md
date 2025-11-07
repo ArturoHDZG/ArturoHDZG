@@ -3,6 +3,7 @@
 </p>
 
 👋 Hi, I’m Arturo Hernández Garza
+- ⚙️ I’m working now in become an Senior Software Architect.
 - 👀 I’m interested in Videogames, History, IT, Gadgets and Tech stuff.
 - 🌱 I’m currently learning English, DevOps IT, Cloud Computing, Web Developer.
 - 💞️ I’m looking to collaborate someday on Videogame Industry.
