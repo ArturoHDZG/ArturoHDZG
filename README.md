@@ -1,12 +1,12 @@
 <p align="center">
-<img width="200" height="200" src="https://user-images.githubusercontent.com/110303654/184613495-2b55ad96-6094-40af-a946-40dd32e131d7.jpg" alt="Just Me">
+<img width="200" height="200" src="https://github.com/user-attachments/assets/7b404837-0a80-43dc-9620-963816d20a21" alt="Just Me">
 </p>
 
-- 👋 Hi, I’m Arturo Hernández Garza
+👋 Hi, I’m Arturo Hernández Garza
 - 👀 I’m interested in Videogames, History, IT, Gadgets and Tech stuff.
 - 🌱 I’m currently learning English, DevOps IT, Cloud Computing, Web Developer.
 - 💞️ I’m looking to collaborate someday on Videogame Industry.
-- 📫 Follow me on [Facebook](https://www.facebook.com/arturo.hernandezgarza/), [Twitter](https://twitter.com/arturo_hdzg) or [Linkedin](https://www.linkedin.com/in/arturohdzg).
+- 📫 Follow me on [Facebook](https://www.facebook.com/arturo.hdz.garza/), [Twitter](https://x.com/ArturoHGarza) or [Linkedin](https://www.linkedin.com/in/arturohdzg).
 
 <hr/>
 
