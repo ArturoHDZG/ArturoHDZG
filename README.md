@@ -12,7 +12,7 @@
 <hr/>
 
 <p align="center">
-See all my projects here:
+Major Projects:
 </p>
 
 1. [Under Construction](https://)<br>
@@ -36,7 +36,10 @@ See all my projects here:
 10. [Freelance Web](https://arturohdzg.github.io/FreelanceWeb/)<br>
 [![Freelance Web](https://user-images.githubusercontent.com/110303654/185366843-0b417bbf-0a5c-4441-8f05-0969a50535dd.jpg)](https://arturohdzg.github.io/FreelanceWeb/)  
 
-Vanilla JavaScript Projects:
+➡ React Projects:
+- [Hangman Game](https://arturohdzg.github.io/React-Hangman-Game/)
+
+➡ Vanilla JavaScript Projects:
 - [API Restaurant App](https://arturohdzg.github.io/JS-API-Restaurant-App/)
 - [API Crypto Prices App](https://arturohdzg.github.io/JS-API-Crypto-Prices-App/)
 - [API Image Search App](https://arturohdzg.github.io/JS-API-Image-Search-App/)
@@ -49,7 +52,7 @@ Vanilla JavaScript Projects:
 - [Vanilla JS Email Form Simulator](https://arturohdzg.github.io/JS-Email-Form-Simulator/)  
 - [Vanilla JS Shopping Cart](https://arturohdzg.github.io/JS-Shopping-Cart/)  
   
-Other Projects
+➡ Other Projects
 - [FrontEnd Mentor Challenges](https://github.com/ArturoHDZG/FrontEnd-Mentor)
 <!---
 ArturoHDZG/ArturoHDZG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
